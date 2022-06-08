@@ -1,2 +1,2 @@
-# Montague.com
-School Project. Romeo &amp; Juliet website showing the house of the Montagues.
+# JulietAndRomeo.tk
+School Project. Romeo &amp; Juliet website showing the wedding of Romeo & Juliet.
